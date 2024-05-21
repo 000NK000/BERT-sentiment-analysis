@@ -1,0 +1,6 @@
+angry
+fear
+happy
+neural
+sad
+surprise
